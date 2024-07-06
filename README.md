@@ -1,4 +1,4 @@
-# Pairs Trading Strategy Analysis
+# Pairs Trading Strategy Design & Back test 
 ## Overview
 This project presents a comprehensive analysis and implementation of a pairs trading strategy. The strategy leverages the statistical relationship between two assets to exploit mean-reverting behavior, identifying trading opportunities when the price spread between the assets deviates from its historical mean. The analysis involves:
 
